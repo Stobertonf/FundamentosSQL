@@ -1,6 +1,6 @@
 # FundamentosSQL
 
-Scripts curso do Professor André Baltieri (Balta) na plataforma https://balta.io para revisar conceitos do SQL Server.
+Scripts curso da carreira de Backend, do Professor André Baltieri (Balta), na plataforma https://balta.io para revisar conceitos do SQL Server.
 
 Neste curso eu tive a oportunidade de revisar os conceitos / Fundamentos de SQL Server. 
 
